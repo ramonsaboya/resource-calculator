@@ -1,0 +1,56 @@
+5
+1 Pulverizer
+1 Piston
+2 Flint
+1 Machine Frame
+2 Copper Gear
+1 Redstone Reception Coil
+
+4
+1 Piston
+3 Wooden Planks
+4 Cobblestone
+1 Iron Ingot
+1 Redstone
+
+3
+1 Machine Frame
+4 Glass
+4 Iron Ingot
+1 Tin Gear
+
+2
+1 Copper Gear
+4 Copper Ingot
+1 Stone Gear
+
+2
+1 Redstone Reception Coil
+2 Redstone
+1 Gold Ingot
+
+2
+1 Tin Gear
+4 Tin Ingot
+1 Stone Gear
+
+2
+1 Stone Gear
+4 Cobblestone
+1 Wooden Gear
+
+1
+1 Wooden Gear
+4 Stick
+
+1
+4 Stick
+2 Wooden Planks
+
+1
+4 Wooden Planks
+1 Wood
+
+1
+1 Glass
+1 Sand
