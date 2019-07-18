@@ -66,8 +66,8 @@ def process_recipes(dir):
                     break
                 if line.strip() == "":
                     continue
-                recipe_item_amount = int(line.strip())
-                target_stack = Stack.from_str(fp.readline())
+                target_stack = Stack.from_str(line)
+                recipe_item_amount = int(fp.readline().strip())
                 recipe = Recipe(target_stack.amount)
                 for _ in range(0, recipe_item_amount):
                     recipe.add_material(Stack.from_str(fp.readline()))

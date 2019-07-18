@@ -1,56 +1,90 @@
-5
 1 Pulverizer
+5
 1 Piston
 2 Flint
 1 Machine Frame
 2 Copper Gear
 1 Redstone Reception Coil
 
-4
 1 Piston
+4
 3 Wooden Planks
 4 Cobblestone
 1 Iron Ingot
 1 Redstone
 
-3
 1 Machine Frame
+3
 4 Glass
 4 Iron Ingot
 1 Tin Gear
 
-2
 1 Copper Gear
+2
 4 Copper Ingot
 1 Stone Gear
 
-2
 1 Redstone Reception Coil
+2
 2 Redstone
 1 Gold Ingot
 
-2
 1 Tin Gear
+2
 4 Tin Ingot
 1 Stone Gear
 
-2
 1 Stone Gear
+2
 4 Cobblestone
 1 Wooden Gear
 
-1
 1 Wooden Gear
+1
 4 Stick
 
-1
 4 Stick
+1
 2 Wooden Planks
 
-1
 4 Wooden Planks
+1
 1 Wood
 
-1
 1 Glass
+1
 1 Sand
+
+1 Aqueous Accumulator
+5
+1 Bucket
+2 Glass
+1 Device Frame
+2 Iron Gear
+1 Redstone Servo
+
+1 Bucket
+1
+3 Iron Ingot
+
+1 Device Frame
+3
+4 Tin Ingot
+4 Glass
+1 Copper Gear
+
+1 Iron Gear
+2
+4 Iron Ingot
+1 Stone Gear
+
+1 Redstone Servo
+2
+2 Redstone
+1 Iron Ingot
+
+6 Leadstone Fluxduct
+3
+6 Redstone
+2 Lead Ingot
+1 Glass
