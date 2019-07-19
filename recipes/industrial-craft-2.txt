@@ -1,0 +1,83 @@
+1 Nuclear Reactor
+3
+1 Advanced Circuit
+3 Reactor Chamber
+1 Generator
+
+1 Advanced Circuit
+4
+4 Redstone
+2 Glowstone
+2 Lapis Lazuli
+1 Electronic Circuit
+
+1 Electronic Circuit
+3
+6 Insulated Copper Cable
+2 Redstone
+1 Refined Iron
+
+6 Insulated Copper Cable
+2
+6 Rubber
+3 Copper Ingot
+
+1 Refined Iron
+1
+1 Iron Ingot
+
+1 Reactor Chamber
+2
+4 Dense Copper Plate
+1 Basic Machine Casing
+
+1 Dense Copper Plate
+1
+8 Copper Ingot
+
+1 Basic Machine Casing
+1
+8 Refined Iron
+
+1 Generator
+3
+1 RE-Battery
+3 Refined Iron
+1 Iron Furnace
+
+1 RE-Battery
+3
+1 Insulated Copper Cable
+4 Tin Ingot
+2 Redstone
+
+1 Iron Furnace
+1
+8 Iron Ingot
+
+1 2x Ins. Gold Cable
+2
+1 Rubber
+1 Insulated Gold Cable
+
+4 Insulated Gold Cable
+2
+4 Rubber
+1 Gold Ingot
+
+1 MFE
+3
+4 2x Ins. Gold Cable
+4 Energy Crystal
+1 Basic Machine Casing
+
+1 Energy Crystal
+2
+8 Redstone
+1 Diamond
+
+1 BatBox
+3
+5 Wooden Planks
+1 Insulated Copper Cable
+3 RE-Battery

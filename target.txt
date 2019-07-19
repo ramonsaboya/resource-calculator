@@ -1,2 +1,7 @@
-1 Aqueous Accumulator
-18 Leadstone Fluxduct
+1 Nuclear Reactor
+3 Reactor Chamber
+1 Lever
+20 2x Ins. Gold Cable
+1 Electrical Engine
+1 BatBox
+1 MFE
