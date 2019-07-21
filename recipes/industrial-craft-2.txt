@@ -81,3 +81,24 @@
 5 Wooden Planks
 1 Insulated Copper Cable
 3 RE-Battery
+
+1 Fuel Rod (Uranium)
+2
+1 Refined Uranium
+1 Empty Cell
+
+16 Empty Cell
+2
+4 Tin Ingot
+1 Glass Pane
+
+1 Heat Vent
+2
+4 Iron Bars
+4 Refined Iron
+
+1 Heat Exchanger
+3
+1 Electronic Circuit
+1 Dense Copper Plate
+3 Tin Ingot

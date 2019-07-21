@@ -1,13 +1,7 @@
-1 Stone
-66 Rubber
-27 Tin Ingot
-47 Redstone
-2 Glowstone
-2 Lapis Lazuli
-201 Copper Ingot
-6 Gold Ingot
-1 Sand
-12 Cobblestone
-69 Iron Ingot
-4 Wood
-4 Diamond
+16 Tin Ingot
+4 Refined Uranium
+8 Redstone
+44 Copper Ingot
+92 Iron Ingot
+24 Rubber
+6 Sand

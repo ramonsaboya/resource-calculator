@@ -25,3 +25,11 @@
 2
 1 Stick
 1 Stone
+
+16 Glass Pane
+1
+6 Glass
+
+16 Iron Bars
+1
+6 Iron Ingot
