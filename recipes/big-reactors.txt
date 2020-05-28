@@ -1,0 +1,40 @@
+1 Reactor Controller
+4
+4 Reactor Casing
+2 Yellorium Ingot
+1 Diamond
+1 Redstone
+
+1 Reactor Control Rod
+4
+4 Reactor Casing
+3 Graphite Bar
+1 Yellorium Ingot
+1 Redstone
+
+1 Reactor Power Tap
+2
+4 Reactor Casing
+4 Redstone
+
+1 Reactor Access Port
+3
+4 Reactor Casing
+1 Chest
+1 Piston
+
+1 Yellorium Fuel Rod
+3
+1 Yellorium Ingot
+2 Graphite Bar
+6 Iron Ingot
+
+4 Reactor Casing
+3
+1 Yellorium Ingot
+4 Graphite Bar
+4 Iron Ingot
+
+1 Graphite Bar
+1
+1 Coal

@@ -1,3 +1,6 @@
-4 Heat Exchanger
-16 Heat Vent
-4 Fuel Rod (Uranium)
+22 Reactor Casing
+1 Reactor Controller
+1 Reactor Control Rod
+1 Reactor Power Tap
+1 Reactor Access Port
+1 Yellorium Fuel Rod

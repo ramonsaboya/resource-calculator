@@ -102,3 +102,18 @@
 1 Electronic Circuit
 1 Dense Copper Plate
 3 Tin Ingot
+
+8 Reinforced Stone
+2
+1 Advanced Alloy
+8 Stone
+
+1 Advanced Alloy
+1
+1 Mixed Metal Ingot
+
+2 Mixed Metal Ingot
+3
+3 Refined Iron
+3 Bronze Ingot
+3 Tin Ingot

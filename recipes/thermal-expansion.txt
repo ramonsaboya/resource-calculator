@@ -69,3 +69,41 @@
 6 Redstone
 2 Lead Ingot
 1 Glass
+
+1 Steam Dynamo
+5
+2 Iron Ingot
+2 Copper Ingot
+1 Redstone
+1 Copper Gear
+1 Redstone Transmission Coil
+
+1 Redstone Transmission Coil
+2
+2 Redstone
+1 Silver Ingot
+
+1 Redstone Furnace
+5
+2 Copper Gear
+2 Bricks
+1 Redstone
+1 Redstone Reception Coil
+1 Machine Frame
+
+1 Bronze Ingot
+1
+1 Bronze Blend
+
+4 Bronze Blend
+2
+3 Pulverized Copper
+1 Pulverized Tin
+
+1 Pulverized Copper
+1
+1 Copper Ingot
+
+1 Pulverized Tin
+1
+1 Tin Ingot

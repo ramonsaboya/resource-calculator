@@ -1,7 +1,7 @@
-16 Tin Ingot
-4 Refined Uranium
-8 Redstone
-44 Copper Ingot
-92 Iron Ingot
-24 Rubber
-6 Sand
+14 Yellorium Ingot
+47 Iron Ingot
+1 Diamond
+7 Redstone
+45 Coal
+4 Cobblestone
+3 Wood

@@ -74,17 +74,15 @@ def process_recipes(dir):
                 if target_stack.item not in recipes.keys():
                     recipes[target_stack.item] = []
                 recipes[target_stack.item].append(recipe)
-
-    for recipe_list in recipes.values():
-        recipe_list.sort()
     
     return recipes
 
 def calculate_resources(recipes, target_file):
     raw_stacks = dict()
     for line in target_file:
-        target = Stack.from_str(line)
-        raw_stacks[target.item] = raw_stacks.get(target.item, 0) + target.amount
+        if line:
+            target = Stack.from_str(line)
+            raw_stacks[target.item] = raw_stacks.get(target.item, 0) + target.amount
 
     temp = None
     while temp is None or temp != raw_stacks:
